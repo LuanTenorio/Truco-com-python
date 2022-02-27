@@ -291,3 +291,4 @@ while True:
     if ordem >= 4:
         ordem = 0
 jogo.status()
+
